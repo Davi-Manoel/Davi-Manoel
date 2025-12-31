@@ -2,8 +2,6 @@
    
 <div align="center">
   <a href=Davi-J-Manoel"https://github.com/Davi-J-Manoel/README.md">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-J-Manoel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-J-Manoel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
      
 <div style="display: inline_block"><br>  
